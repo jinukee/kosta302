@@ -9,4 +9,8 @@ public class BoardController {
 	public void insert() {
 		System.out.println("서버에서 작업함~");
 	}
+
+	public void delete() {
+		System.out.println("원격에서 삭제 추가~");
+	}
 }
